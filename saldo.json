@@ -1,0 +1,44 @@
+{
+  "saldo": 13250000.0,
+  "transactions": [
+    {
+      "type": "pemasukan",
+      "amount": 10000000.0,
+      "time": "2026-02-03T06:02:33.128017"
+    },
+    {
+      "type": "pemasukan",
+      "amount": 10000000.0,
+      "time": "2026-02-03T06:05:33.829688"
+    },
+    {
+      "type": "pengeluaran",
+      "amount": 5000000.0,
+      "time": "2026-02-03T06:05:48.614465"
+    },
+    {
+      "type": "pengeluaran",
+      "amount": 2000000.0,
+      "note": "belanja",
+      "time": "2026-02-03T06:08:09.326680"
+    },
+    {
+      "type": "pemasukan",
+      "amount": 200000.0,
+      "note": "Uang saku",
+      "time": "2026-02-03T06:10:28.893359"
+    },
+    {
+      "type": "pemasukan",
+      "amount": 300000.0,
+      "note": "Uang saku",
+      "time": "2026-02-03T06:18:17.772897"
+    },
+    {
+      "type": "pengeluaran",
+      "amount": 250000.0,
+      "note": "Skincare",
+      "time": "03 Feb 2026 06:20:57"
+    }
+  ]
+}
